@@ -57,7 +57,7 @@ namespace SayMyName
 
             else
             {
-                Console.WriteLine($"Hello there! \"{userInput}\"Nice to meet you.");
+                Console.WriteLine($"Hello there! \"{userInput}\" Nice to meet you.");
             }
 
             Console.Read();
